@@ -1,0 +1,33 @@
+Task List Server - ¡Tu Asistente de Organización Personal!
+¿Qué es Task List Server y para qué sirve?
+Task List Server es una poderosa herramienta de organización personal que te permite administrar y realizar un seguimiento eficiente de tus tareas y actividades diarias. Este servidor, basado en Express.js, ha sido diseñado pensando en la simplicidad y la facilidad de uso, permitiéndote concentrarte en lo que realmente importa: completar tus tareas.
+
+Funcionalidades Clave
+1. Crear Nuevas Tareas
+Con Task List Server, puedes crear fácilmente nuevas tareas para capturar tus responsabilidades y objetivos. Simplemente agrega el título de la tarea y estará en tu lista.
+
+2. Actualizar Tareas
+La vida es dinámica, y tus tareas también pueden serlo. Task List Server te permite actualizar el título de una tarea o marcarla como completada o incompleta según tus avances.
+
+3. Eliminar Tareas
+Cuando una tarea ya no sea relevante o haya sido completada, puedes eliminarla de tu lista con un solo clic, manteniendo tu lista de tareas limpia y organizada.
+
+4. Listar Todas las Tareas
+Obtén una vista general de todas tus tareas pendientes en una sola pantalla. Con esta funcionalidad, puedes tener una visión completa de tus responsabilidades.
+
+5. Listar Tareas Completas e Incompletas
+Task List Server te permite filtrar tus tareas para ver solo las completadas o las que aún están pendientes. Esto te ayuda a evaluar fácilmente tu progreso y tus tareas pendientes.
+
+6. Obtener una Tarea Específica
+Si necesitas detalles específicos de una tarea, simplemente selecciona la tarea por su ID, y obtendrás toda la información que necesitas.
+
+Beneficios para los Usuarios
+Máxima Productividad: Con Task List Server, puedes gestionar tus tareas de manera eficiente y mantener un control completo sobre tus responsabilidades diarias.
+
+Organización sin Estrés: Olvídate de las listas de tareas en papel o las aplicaciones complicadas. Task List Server te ofrece una forma simple y efectiva de mantener tu vida organizada.
+
+Acceso en Cualquier Momento: Puedes acceder a tu lista de tareas desde cualquier lugar y dispositivo con conexión a Internet, lo que te brinda la flexibilidad que necesitas para mantener tu vida organizada.
+
+Interfaz Amigable: Nuestra interfaz intuitiva y fácil de usar garantiza que cualquiera, sin importar su nivel de habilidad técnica, pueda utilizar Task List Server sin problemas.
+
+En resumen, Task List Server es tu compañero perfecto para mantenerte organizado, productivo y centrado en tus objetivos. Simplifica tu vida y lleva un registro efectivo de tus tareas con nuestra herramienta amigable y confiable.
